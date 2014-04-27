@@ -28,4 +28,14 @@ body{background:url(../images/bg.png) no-repeat;background-size:100%;}
 .span7 div section img{float:left;}
 .section section div{margin-left:30%;margin-top: -8px;}
 .section section div p{font-size:10px;}
-.span7 .section{}
+.tweet{width:100%;}
+
+.sidebar img{margin-bottom:15px;}
+.sidebar span{background-color: rgba(152, 221, 19, 1);position: relative;
+left: -246px;
+font-size: 20px;}
+
+.avatar section{width:31% !important;}
+.avatar p.pad{padding:0px !important;}
+.avatar section div:first-child{padding:5px;-webkit-box-shadow:inset 1px 0 1px 1px #CCC2C2;
+box-shadow:inset 1px 0 1px 1px #CCC2C2;}
