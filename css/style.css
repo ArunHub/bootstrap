@@ -6,7 +6,7 @@ body{background:url(../images/bg.png) no-repeat;background-size:100%;}
 .menu .nav > li > a{padding:4px 24px;}
 .menu .nav li a{color:black;}
 .menu .nav-pills > li + li {margin-left: 8px;}
-.span7 img{width:508px;}
+.row-fluid .span7 img{width:508px;}
 .span7{margin-top:50px;}
 .glass{width:78.5%;background: rgba(0,0,0,.4);padding: 10px;margin-top: 10px;}
 .glass h3{color:white;font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;}
@@ -22,3 +22,10 @@ body{background:url(../images/bg.png) no-repeat;background-size:100%;}
 .app h4 span{display: block;font-size: 28px;}
 .app h4 {padding-top:9px;}
 .app down{padding:10px 0 0 0px;} 
+
+.span7 div section{width:48%;float:left;margin-right:2%;margin-bottom:20px;}
+.span7 div section h5{font-weight:bold;}
+.span7 div section img{float:left;}
+.section section div{margin-left:30%;margin-top: -8px;}
+.section section div p{font-size:10px;}
+.span7 .section{}
