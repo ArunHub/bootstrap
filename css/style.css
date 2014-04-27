@@ -12,8 +12,11 @@ body{background:url(../images/bg.png) no-repeat;background-size:100%;}
 .glass h3{color:white;font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;}
 .below-glass{margin-top:15%;}
 .below-glass section{padding:8px;}
+.below-glass section.span4{margin-top:10px;}
 .below-glass section + section{margin-left:5% !important;}
 .below-glass section:first-child p{font-size:9px;}
+.below-glass section.span5 p{font-size:12px;}
+.below-glass section.span5 h5{font-weight:bold;}
 .app{background:rgba(0,0,0,.4);height:70px;color:white;}
 .app > span{font-size: 50px;padding: 6px;}
 .app h4 span{display: block;font-size: 28px;}
